@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\obj\\Debug\\net7.0\\build-gz\\nkcVffZZ.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou1080.m3u8",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou1080.m3u8"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou10800.ts",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou10800.ts"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou10801.ts",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou10801.ts"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou10802.ts",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou10802.ts"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou10803.ts",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou10803.ts"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou10804.ts",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou10804.ts"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\Videos\\Rou1080\\rou10805.ts",
+      "PackagePath": "staticwebassets\\Videos\\Rou1080\\rou10805.ts"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\js\\hls\\hls.js",
+      "PackagePath": "staticwebassets\\js\\hls\\hls.js"
+    },
+    {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\js\\hls\\hlsInterop.js",
+      "PackagePath": "staticwebassets\\js\\hls\\hlsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HlsWASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HlsWASM.props",
+      "PackagePath": "build\\HlsWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HlsWASM.props",
+      "PackagePath": "buildMultiTargeting\\HlsWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HlsWASM.props",
+      "PackagePath": "buildTransitive\\HlsWASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
