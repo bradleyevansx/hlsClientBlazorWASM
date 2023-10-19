@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/js/hls/hls.js",
+      "rewrite": "/index.html"
+    },
+    {
+      "route": "/",
+      "rewrite": "/index.html"
+    }
+  ]
+}
