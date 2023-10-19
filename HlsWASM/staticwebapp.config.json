@@ -1,0 +1,7 @@
+{
+  "app_location": "/",
+  "api_location": "api",
+  "output_location": "/wwwroot",
+  "azure_functions_project": null,
+  "swagger_enabled": true
+}
