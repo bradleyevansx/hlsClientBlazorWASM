@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\js\\hls\\hls.js"
     },
     {
+      "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\js\\hls\\hls.js.map",
+      "PackagePath": "staticwebassets\\js\\hls\\hls.js.map"
+    },
+    {
       "Id": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\js\\hls\\hlsInterop.js",
       "PackagePath": "staticwebassets\\js\\hls\\hlsInterop.js"
     },

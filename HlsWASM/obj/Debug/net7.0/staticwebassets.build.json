@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CyMl6dq1h7RrpvEwgmxT+pAA1M2Avs/uGVTb+JqJkrc=",
+  "Hash": "1xCgP5K8XmvATBU7eW41MsdA1zvhMxCWCGv1y/AohWw=",
   "Source": "HlsWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -6917,6 +6917,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\hls\\hls.js"
+    },
+    {
+      "Identity": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\js\\hls\\hls.js.map",
+      "SourceId": "HlsWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/hls/hls.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\hls\\hls.js.map"
     },
     {
       "Identity": "C:\\Users\\bradl\\POL\\C#Testing\\HlsWASM\\HlsWASM\\wwwroot\\js\\hls\\hlsInterop.js",
