@@ -6,6 +6,6 @@
 @code {
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
-        await JsRuntime.InvokeVoidAsync("initializeHlsPlayer", "hlsPlayer", "../../Videos/Rou1080/rou1080.m3u8");
+        await JsRuntime.InvokeVoidAsync("initializeHlsPlayer", "hlsPlayer", "https://firebasestorage.googleapis.com/v0/b/project-1-bdfa6.appspot.com/o/videos%2Frou%2Frou.m3u8?alt=media&token=e47fd5f9-e709-43c5-8831-9448ed927c99&_gl=1*1sv4e1m*_ga*MTM4MjUwOTc4OS4xNjk3ODM2MDg2*_ga_CW55HF8NVT*MTY5Nzg0NDM2OS4zLjEuMTY5Nzg0NDYyMi41Ni4wLjA.");
     }
 }

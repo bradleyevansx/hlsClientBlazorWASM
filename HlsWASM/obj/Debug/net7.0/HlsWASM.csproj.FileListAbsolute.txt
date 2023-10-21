@@ -823,3 +823,4 @@ C:\Users\bradl\POL\C#Testing\HlsWASM\HlsWASM\obj\Debug\net7.0\HlsWASM.dll
 C:\Users\bradl\POL\C#Testing\HlsWASM\HlsWASM\obj\Debug\net7.0\refint\HlsWASM.dll
 C:\Users\bradl\POL\C#Testing\HlsWASM\HlsWASM\obj\Debug\net7.0\HlsWASM.pdb
 C:\Users\bradl\POL\C#Testing\HlsWASM\HlsWASM\obj\Debug\net7.0\ref\HlsWASM.dll
+C:\Users\bradl\POL\C#Testing\HlsWASM\HlsWASM\bin\Debug\net7.0\firebase.json
